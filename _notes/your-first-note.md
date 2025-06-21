@@ -1,10 +1,12 @@
 ---
-title: Your first seed
+title: Your first seeds
 ---
 
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+
+My first weeknote [[2025w20|2025 week 20]]
 
 ### Link syntax
 
